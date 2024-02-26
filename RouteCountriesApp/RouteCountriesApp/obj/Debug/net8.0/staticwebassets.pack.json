@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arthur.evans\\Documents\\GitHub\\RouteCountriesApp\\RouteCountriesApp\\RouteCountriesApp\\wwwroot\\1.html",
+      "PackagePath": "staticwebassets\\1.html"
+    },
+    {
+      "Id": "C:\\Users\\arthur.evans\\Documents\\GitHub\\RouteCountriesApp\\RouteCountriesApp\\RouteCountriesApp\\wwwroot\\2.html",
+      "PackagePath": "staticwebassets\\2.html"
+    },
+    {
+      "Id": "C:\\Users\\arthur.evans\\Documents\\GitHub\\RouteCountriesApp\\RouteCountriesApp\\RouteCountriesApp\\wwwroot\\3.html",
+      "PackagePath": "staticwebassets\\3.html"
+    },
+    {
+      "Id": "C:\\Users\\arthur.evans\\Documents\\GitHub\\RouteCountriesApp\\RouteCountriesApp\\RouteCountriesApp\\wwwroot\\4.html",
+      "PackagePath": "staticwebassets\\4.html"
+    },
+    {
+      "Id": "C:\\Users\\arthur.evans\\Documents\\GitHub\\RouteCountriesApp\\RouteCountriesApp\\RouteCountriesApp\\wwwroot\\5.html",
+      "PackagePath": "staticwebassets\\5.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RouteCountriesApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RouteCountriesApp.props",
+      "PackagePath": "build\\RouteCountriesApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RouteCountriesApp.props",
+      "PackagePath": "buildMultiTargeting\\RouteCountriesApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RouteCountriesApp.props",
+      "PackagePath": "buildTransitive\\RouteCountriesApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

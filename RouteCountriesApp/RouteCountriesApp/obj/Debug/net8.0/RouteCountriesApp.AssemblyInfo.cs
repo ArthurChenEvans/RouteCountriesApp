@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteCountriesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aabf67c7271d76c5549485c4ca9185133a86f065")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteCountriesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteCountriesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
